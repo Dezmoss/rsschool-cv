@@ -42,3 +42,14 @@ function comp(array1, array2) {
         return false;
 }
 ```
+
+## Education
+
+- **Gomel State Technical University**, Energy Engineer
+- **UDEMY**
+    - *Web-developer* ([sertificate](https://www.udemy.com/certificate/UC-bf16dc3e-095b-4f54-983a-f8afcb63d722/))
+    - *Full JavaScript and React.js course: from zero to result (in progress)*
+
+## Languages
+- English - Pre-intermediate A2
+- Russian - Native
