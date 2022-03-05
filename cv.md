@@ -10,3 +10,13 @@
 
 ## About Me
 I am a beginner front-end developer, in my youth I was engaged in algorithmic programming competitions, I took part in regional competitions many times and was awarded a diploma. Currently I am actively studying web development courses. In the future, I want to become a full-stack developer.
+
+## Skills
+- HTML5
+- CSS3
+- SCSS/SASS
+- JavaScript
+- Git/GitHub
+- Gulp
+- BEM
+
